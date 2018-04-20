@@ -1,0 +1,49 @@
+html.intro body {
+	background: #8fae57 url("../img/freesw.png") no-repeat center 0;
+}
+
+section.normal{
+	background: rgba(255,255,255,0.6);
+	padding: 40px 10px 10px !important;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+}
+
+.notes{
+	font-size: .5em !important;
+	font-style: italic !important;
+	text-align: right;
+}
+
+span.num{
+	color: white !important;
+	font-weight: bolder !important;
+	font-size: 1.4em !important;
+	background: black;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+	width: 50px;
+	height: 50px;
+	padding: 8px !important;
+	display: block;
+}
+
+.reveal section img{
+	width: 80%;
+}
+
+.reveal h1 {
+	font-size: 3em;
+}
+
+.reveal h2 {
+	font-size: 2em;
+}
+
+.reveal ul {
+  display: inline-block;
+  text-align: left;
+  margin: 0 0 0 1em;
+}
